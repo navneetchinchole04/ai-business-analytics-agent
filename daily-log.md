@@ -22,15 +22,15 @@
 **Project:** AI Business Analytics & Decision Support Agent
 
 - Inserted sample business data into four PostgreSQL tables.
-- Practised SQL UPDATE and SELECT statements.
+- Practised SQL 'UPDATE' and 'SELECT' statements.
 - Learned ORDER BY and DISTINCT for sorting and retrieving unique records.
-- Practised aggregate functions: COUNT(), SUM(), AVG(), MIN(), MAX().
-- Learned GROUP BY and HAVING for grouped data analysis.
+- Practised aggregate functions: 'COUNT()', 'SUM()', 'AVG()', 'MIN()', 'MAX()'.
+- Learned 'GROUP BY' and HAVING for grouped data analysis.
 - Explored customer and order data using SQL queries.
 
 **Challenges:**
 
-- Resolved multi-row INSERT syntax errors.
+- Resolved multi-row 'INSERT' syntax errors.
 - Understood Primary Key and Foreign Key relationships.
 - Practised grouping and filtering aggregated results.
 
